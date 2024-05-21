@@ -1,2 +1,2 @@
 # base_ctf
-base ctf
+docker run --rm -ti basectf:latest
