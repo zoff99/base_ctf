@@ -1,4 +1,4 @@
-# base_ctf
+# base CTF
 
 ```bash
 cat basectf.tar | docker load
