@@ -94,5 +94,5 @@
 #### check your result
 * if you paste all your flags to take the SHA256 hash like this
 * `echo 'FLAG1_12SECRECT2FLAG10_12.....' | sha256sum`
-* you will get this secret code: `dcaba7f7976e180140e78b2d42e9b1a8521a7be9394dbf6c082161099cd0848a`
+* you will get this secret code: `2e8a3cc2a0197775f8df1feb84d799487743e86b594e620fd73a2cc7308035f9`
 
